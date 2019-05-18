@@ -1,0 +1,114 @@
+html{
+    background-color: lightgrey;
+    background-image: url(background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+body{
+    width: 800px;
+    height: 680px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    opacity: 0.9;
+    padding-left: 10px;
+}
+
+header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 3px;
+}
+
+h1{
+    font-size: 35px;
+}
+
+h2{
+    text-align: center;
+    font-size: 22px;
+}
+
+h3{
+    font-size: 16px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    padding-top: 10px;
+}
+
+li{
+    float: left;
+    margin-left: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+a{
+    display: inline-block;
+    text-align: center;
+}
+
+main{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+
+}
+
+.spruch{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    padding-top: 10px;
+}
+
+.spruch1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    background-color: grey;
+}
+
+.footerindex{
+    color: grey;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 42.5px;
+}
+
+.footer1{
+    color: grey;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.footer2{
+    color: grey;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 174.5px;
+}
+
+.footer3{
+    color: grey;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 288.5px;
+}
+
+/*padding innerhalb von Box, zur höhe zur breite dazugerechnet, margin von außenlinien/ausabstand */
